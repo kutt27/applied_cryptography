@@ -31,3 +31,8 @@ The main purpose is to identify and address security risks early, often during t
 Common approaches include creating attacker personas, mapping data flows, and prioritizing issues by severity, helping organizations allocate resources to the most critical threats first.
 
 Threat modeling is a foundational activity in cybersecurity and risk management, ensuring that systems are designed and maintained with security in mind from the outset.
+
+
+### Tools to Help
+- **Threat Modeling Tools**: Microsoft Threat Modeling Tool, OWASP Threat Dragon.
+- **Security Standards**: Follow OWASP Mobile Top 10, NIST guidelines, and GDPR/CCPA for data protection.
