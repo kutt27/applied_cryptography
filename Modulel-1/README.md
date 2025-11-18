@@ -1,4 +1,4 @@
-## Introduction and Historical Context of Classical Cryptography
+## Introduction and Historical of Classical Cryptography
 
 **Theory**:
 Cryptography, the art and science of securing information, has ancient origins tracing back to early civilizations like the Egyptians who used hieroglyphic substitution ciphers and the Romans with Caesar cipher (a simple letter shift). These classical ciphers were originally developed to protect military and diplomatic communications. Over centuries, more complex polyalphabetic ciphers like the Vigenère cipher emerged to improve security against early attacks such as frequency analysis, which exploits statistical patterns in languages.
