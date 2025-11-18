@@ -13,24 +13,6 @@ In the early 20th century, electromechanical machines like the Enigma provided m
 - Symmetric Cryptography: Uses a shared secret key for both encryption and decryption.
 - Asymmetric Cryptography: Uses a pair of keys (public and private) for encryption and decryption.
 
-[Continue](ceaser_cipher.md)
-
-Substitution Cipher
-
-Theory: Concept of substitution cipher, difference from Caesar cipher, monoalphabetic vs polyalphabetic substitution.
-
-Code: Implement a substitution cipher in C with a given key.
-
-Hands-on: Encrypt and decrypt messages using substitution cipher.
-
-Vigenère Cipher
-
-Theory: Introduction to polyalphabetic cipher, Vigenère encryption and decryption.
-
-Code: Implement Vigenère cipher in C.
-
-Hands-on: Encrypt and decrypt messages; understand why it’s stronger than Caesar but still breakable.
-
 Frequency Analysis
 
 Theory: Statistical attack on substitution and Caesar ciphers; concept of letter frequency and common cryptanalysis techniques.
